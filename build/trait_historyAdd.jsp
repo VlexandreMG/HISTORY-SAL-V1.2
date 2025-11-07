@@ -1,4 +1,4 @@
-<%@ page import="main.java.History_work.*, java.sql.*, main.java.pages.*" %>
+<%@ page import="main.java.History_work.*, java.sql.*, main.java.Emp_work.*" %>
 
 <% 
     String empno = request.getParameter("empno");
